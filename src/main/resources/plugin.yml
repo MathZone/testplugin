@@ -1,0 +1,4 @@
+name: Test
+version: '${project.version}'
+main: org.nanokloon.test.Main
+api-version: 1.19
